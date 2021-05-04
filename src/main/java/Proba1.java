@@ -10,7 +10,11 @@
  */
 public class Proba1 {
     
-    public static void saudo(String, persoa){
+    public static int numCaracteres(String persoa){
+       return persoa.length();
+    }
+    
+    public static void saudo(String persoa){
         System.out.println("Ola"+ persoa);
     }
     
