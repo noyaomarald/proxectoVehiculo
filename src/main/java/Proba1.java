@@ -43,7 +43,7 @@ public class Proba1 {
         System.out.println("Paquito ten: "+numCaracteres("Paquito")+" caracteres");
         saudo2();
         System.out.println("produto: "+produto(2,3));
-        saudo();
-        System.out.println("Paquito ten: "+numCaracteres("Manuel")+" caracteres");
+        System.out.println("produto: "+produto(2.0f,3.0f));
+        
     }
 }
