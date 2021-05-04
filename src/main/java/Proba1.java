@@ -30,8 +30,8 @@ public class Proba1 {
        return persoa.length();
     }
     
-    public static void saudo(String persoa){
-        System.out.println("Ola "+ persoa);
+    public static void saudo(){
+        System.out.println("Ola ");
     }
     
     public static void main(String[] args) {
