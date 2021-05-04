@@ -18,6 +18,10 @@ public class Proba1 {
         return a+b;
     }
     
+    public static int produto(int a, int b){
+        return a*b;
+    }
+    
     public static int numCaracteres(String persoa){
        return persoa.length();
     }
@@ -27,7 +31,7 @@ public class Proba1 {
     }
     
     public static void main(String[] args) {
-        System.out.println("Primeira proba");
+        System.out.println("Primeiro saúdo");
         saudo("Paquito");
         System.out.println("Paquito ten: "+numCaracteres("Paquito")+" caracteres");
     }
