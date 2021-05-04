@@ -41,5 +41,7 @@ public class Proba1 {
     public static void main(String[] args) {
         System.out.println("Primeiro saúdo");
         System.out.println("Paquito ten: "+numCaracteres("Paquito")+" caracteres");
+        saudo2();
+        System.out.println("produto: "+produto(2,3));
     }
 }
