@@ -23,10 +23,12 @@ public class Proba1 {
     }
     
     public static void saudo(String persoa){
-        System.out.println("Ola"+ persoa);
+        System.out.println("Ola "+ persoa);
     }
     
     public static void main(String[] args) {
         System.out.println("Primeira proba");
+        saudo("Paquito");
+        System.out.println("Paquito ten: "+numCaracteres("Paquito")+" caracteres");
     }
 }
