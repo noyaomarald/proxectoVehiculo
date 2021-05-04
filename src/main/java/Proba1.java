@@ -36,7 +36,7 @@ public class Proba1 {
     
     public static void main(String[] args) {
         System.out.println("Primeiro saúdo");
-        saudo("Manuel");
+        saudo();
         System.out.println("Paquito ten: "+numCaracteres("Manuel")+" caracteres");
     }
 }
