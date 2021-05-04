@@ -22,7 +22,7 @@ public class Proba1 {
         return a*b;
     }
     
-    public static float produto(float a, float b){
+    public static float produto(float a, int b){
         return a*b;
     }
     
