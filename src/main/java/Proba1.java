@@ -10,6 +10,10 @@
  */
 public class Proba1 {
     
+    public static int suma(int a, int b){
+        return a+b;
+    }
+    
     public static int numCaracteres(String persoa){
        return persoa.length();
     }
