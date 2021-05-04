@@ -22,6 +22,10 @@ public class Proba1 {
         return a*b;
     }
     
+    public static float produto(float a, float b){
+        return a*b;
+    }
+    
     public static int numCaracteres(String persoa){
        return persoa.length();
     }
